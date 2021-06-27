@@ -1,0 +1,4 @@
+site_name: Redbrick
+site_url: https://redbrick.dcu.ie/
+theme:
+    name: material
