@@ -1,12 +1,9 @@
 # Home
-
-https://redbrick.dcu.ie
-
 ## Welcome!
 
-This website is a collection of all you need to know about Redbrick - from Events to the Services we offer!
+This website is a collection of all you need to know about Redbrick - from [Events](/events/) to the [Services](/services/) we offer!
 
-Please visit the Support page to contact us.
+If you have any questions, please visit the [Wiki](https://wiki.redbrick.dcu.ie/), otherwise use the [Help](/help/) page to contact us.
 
 ## Server Status
 

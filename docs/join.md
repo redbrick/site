@@ -1,0 +1,30 @@
+# Joining Redbrick
+
+## So you want to be a brickie?
+
+Membership is open to all past and present students and staff of Dublin City University, and St. Pat’s, Drumcondra.
+Costs
+
+    Students - €4
+    Staff - €8
+    Associates - €8
+
+Paying Online
+
+If you want to pay online, you can pay via paypal. Send the amount to the paypal address - `accounts@redbrick.dcu.ie`. Then send an email to admins@redbrick.dcu.ie with your:
+
+    Transaction Number
+    Your username
+    Your student/staff number if you are a new member
+
+Alternatively you can pay by bank transfer. Similarly get in touch with the treasurer upon payment.
+
+a/c name: DCU Redbrick Society
+IBAN: IE59BOFI90675027999600
+BIC: BOFIIE2D
+a/c number: 27999600
+sort code: 90 - 67 - 50
+
+What username can I have?
+
+Almost anything you want - providing the username is available and no more than eight characters in length!

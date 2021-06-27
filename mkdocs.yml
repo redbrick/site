@@ -7,6 +7,7 @@ repo_url: https://github.com/redbrick/site
 
 theme:
     logo: assets/logo.png
+    favicon: assets/favicon.png
     name: material
     features:
         - navigation.tabs
@@ -28,3 +29,25 @@ theme:
 
 extra_css:
     - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Redbrick/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/redbrickdcu?lang=en
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/redbrickdcusnetworkingsociety
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+
+nav:
+    - 'index.md'
+    - 'join.md'
+    - 'events.md'
+    - 'services.md'
+    - 'about.md'
+    - 'help.md'
