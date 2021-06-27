@@ -1,4 +1,30 @@
 site_name: Redbrick
+site_description: Redbrick society homepage
 site_url: https://redbrick.dcu.ie/
+
+repo_name: Redbrick/site
+repo_url: https://github.com/redbrick/site
+
 theme:
+    logo: assets/logo.png
     name: material
+    features:
+        - navigation.tabs
+    palette:
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: red
+          accent: red
+          toggle:
+              icon: material/weather-sunny
+              name: Switch to dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: red
+          accent: red
+          toggle:
+              icon: material/weather-night
+              name: Switch to light mode
+
+extra_css:
+    - stylesheets/extra.css
