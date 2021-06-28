@@ -1,10 +1,17 @@
 # Events
+
 ## Upcoming Events
 
-Redbrick is [DCU]('https://www.dcu.ie/')’s Computer Networking society. We host events for everything computing related this ranges from; how to setup your own website and storing your photos online to System Administration and Computer Programming Tutorials. We also host a number of [services](/services/) for our membership.
+Redbrick hosts many events throughout the year, from weekly Hackerclub events to country-wide events like SISTEM.
 
-## Talk Slides
+Here is a list of our planned events!
+
+| Date | Event Title | Location |
+| ---- | ----------- | -------- |
 
 ## Past Events
 
-To view archives of our past events, please visit our [YouTube Channel]('https://www.youtube.com/c/redbrickdcusnetworkingsociety')!
+| Date | Event Title | Location | Slides | Tag |
+| ---- | ----------- | -------- | ------ | --- |
+
+To view video archives of our past events, please visit our [YouTube Channel]('https://www.youtube.com/c/redbrickdcusnetworkingsociety')!
