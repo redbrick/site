@@ -11,7 +11,7 @@ Membership is open to all past and present students and staff of Dublin City Uni
 |  Category  | Price |
 | :--------: | :---: |
 |  Students  |  €2   |
-|   Staff    |  €8   |
+|   Staff    |  €6   |
 | Associates |  €8   |
 
 ## Current DCU Students
