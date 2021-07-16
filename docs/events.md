@@ -19,4 +19,4 @@ Here is a catalogue of our most recent events, if you would like the slides to a
 | Inclusive Engineering | 15:00 | 03/03/2021 | Zoom     | Corporate | [Click!](https://www.facebook.com/events/468218184540966/) |
 | Google Hash Code      | 17:30 | 15/02/2021 | Online   | Corporate | [Click!](https://www.facebook.com/events/332511808166982/) |
 
-To view video archives of our past events, please visit our [YouTube Channel]('https://www.youtube.com/c/redbrickdcusnetworkingsociety')!
+To view video archives of our past events, please visit our [YouTube Channel](https://www.youtube.com/c/redbrickdcusnetworkingsociety)!
